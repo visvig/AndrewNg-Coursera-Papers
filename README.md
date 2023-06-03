@@ -1,2 +1,2 @@
 # AndrewNg-DL-Papers
-All the academic papers that Andrew Ng uses in his deep learning specialisation - 5 courses
+Academic papers that Andrew Ng references in his Deep Learning Specialisation - all 5 courses
