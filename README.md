@@ -1,4 +1,4 @@
-# AndrewNg-DL-Papers
+# Deeplearning.AI Courses Reference Papers
 All papers that Andrew Ng references in his Deep Learning Specialisation (5 courses) and Machine Learning Specialisation (3 courses)
 
 DLS_Papers.zip contains: 
@@ -6,3 +6,6 @@ DLS_Papers.zip contains:
 
 RL_Papers.zip contains:
 - 3 papers Andrew suggests in Machine Learning Specialization (3 courses)
+
+How_Stable_Diffusion_Works.zip contains:
+- 2 papers suggested in Generative AI short course series
